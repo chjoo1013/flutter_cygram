@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">196051260111-54n7dd9fqj0ksujgjr5dm7bkksp82mc8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">196051260111</string>
+    <string name="google_api_key" translatable="false">AIzaSyDNpAuekFRUtNIC5baOqAHomb8aLNQxEbA</string>
+    <string name="google_app_id" translatable="false">1:196051260111:android:9d5ed37a56a0eac1529dba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNpAuekFRUtNIC5baOqAHomb8aLNQxEbA</string>
+    <string name="google_storage_bucket" translatable="false">cygram-1c267.appspot.com</string>
+    <string name="project_id" translatable="false">cygram-1c267</string>
+</resources>
